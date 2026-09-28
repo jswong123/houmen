@@ -20,7 +20,17 @@
     "fatigue": 0,
     "ammo": 90,
     "commander": "刘建绪",
-    "commanderTitle": "总司令"
+    "commanderTitle": "总司令",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0002",
@@ -42,7 +52,17 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "guard"
+    "subtype": "guard",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0003",
@@ -65,7 +85,17 @@
     "fatigue": 0,
     "ammo": 90,
     "commander": "陶广",
-    "commanderTitle": "军长"
+    "commanderTitle": "军长",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0004",
@@ -87,7 +117,17 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "guard"
+    "subtype": "guard",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0005",
@@ -110,7 +150,17 @@
     "fatigue": 0,
     "ammo": 90,
     "commander": "区寿年",
-    "commanderTitle": "师长"
+    "commanderTitle": "师长",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0006",
@@ -132,7 +182,17 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "guard"
+    "subtype": "guard",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0007",
@@ -153,7 +213,17 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0008",
@@ -174,7 +244,17 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0009",
@@ -195,7 +275,17 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0010",
@@ -216,7 +306,17 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0011",
@@ -237,7 +337,17 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0012",
@@ -259,7 +369,17 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "mortar"
+    "subtype": "mortar",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0013",
@@ -280,7 +400,17 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0014",
@@ -301,7 +431,17 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0015",
@@ -322,7 +462,17 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0016",
@@ -343,7 +493,17 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0017",
@@ -364,7 +524,17 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0018",
@@ -386,7 +556,17 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "mortar"
+    "subtype": "mortar",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0019",
@@ -410,7 +590,17 @@
     "ammo": 90,
     "commander": "陶柳",
     "commanderTitle": "师长",
-    "notes": "淞沪会战后残部"
+    "notes": "淞沪会战后残部",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0020",
@@ -431,7 +621,17 @@
     "morale": 70,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0021",
@@ -452,7 +652,17 @@
     "morale": 70,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0022",
@@ -473,7 +683,17 @@
     "morale": 70,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0023",
@@ -497,7 +717,17 @@
     "ammo": 90,
     "commander": "胡达",
     "commanderTitle": "师长",
-    "notes": "1937年冬新编，作为杭州湾防务预备力量"
+    "notes": "1937年冬新编，作为杭州湾防务预备力量",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0024",
@@ -518,7 +748,17 @@
     "morale": 72,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0025",
@@ -539,7 +779,17 @@
     "morale": 74,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0026",
@@ -560,7 +810,17 @@
     "morale": 74,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0027",
@@ -581,7 +841,17 @@
     "morale": 74,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0028",
@@ -602,7 +872,17 @@
     "morale": 72,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0029",
@@ -623,7 +903,17 @@
     "morale": 74,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0030",
@@ -644,7 +934,17 @@
     "morale": 74,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0031",
@@ -665,7 +965,17 @@
     "morale": 74,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0032",
@@ -686,7 +996,17 @@
     "morale": 72,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0033",
@@ -707,7 +1027,17 @@
     "morale": 74,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0034",
@@ -728,7 +1058,17 @@
     "morale": 74,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0035",
@@ -749,7 +1089,17 @@
     "morale": 74,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0036",
@@ -770,7 +1120,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0037",
@@ -791,7 +1151,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0038",
@@ -812,7 +1182,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0039",
@@ -833,7 +1213,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0040",
@@ -854,7 +1244,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0041",
@@ -875,7 +1275,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0042",
@@ -896,7 +1306,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0043",
@@ -917,7 +1337,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0044",
@@ -938,7 +1368,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0045",
@@ -959,7 +1399,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0046",
@@ -980,7 +1430,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0047",
@@ -1001,7 +1461,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0048",
@@ -1022,7 +1492,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0049",
@@ -1043,7 +1523,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0050",
@@ -1064,7 +1554,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0051",
@@ -1085,7 +1585,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0052",
@@ -1106,7 +1616,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0053",
@@ -1127,7 +1647,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0054",
@@ -1148,7 +1678,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0055",
@@ -1169,7 +1709,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0056",
@@ -1190,7 +1740,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0057",
@@ -1211,7 +1771,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0058",
@@ -1232,7 +1802,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0059",
@@ -1253,7 +1833,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0060",
@@ -1274,7 +1864,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0061",
@@ -1295,7 +1895,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0062",
@@ -1316,7 +1926,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0063",
@@ -1337,7 +1957,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0064",
@@ -1358,7 +1988,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0065",
@@ -1379,7 +2019,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0066",
@@ -1400,7 +2050,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0067",
@@ -1421,7 +2081,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0068",
@@ -1443,7 +2113,17 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "engineer"
+    "subtype": "engineer",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0069",
@@ -1466,7 +2146,15 @@
     "fatigue": 0,
     "ammo": 90,
     "commander": "柳川平助",
-    "commanderTitle": "司令官"
+    "commanderTitle": "司令官",
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0070",
@@ -1488,7 +2176,15 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "guard"
+    "subtype": "guard",
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0071",
@@ -1511,7 +2207,15 @@
     "fatigue": 0,
     "ammo": 90,
     "commander": "牛岛贞雄",
-    "commanderTitle": "师团长"
+    "commanderTitle": "师团长",
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0072",
@@ -1533,7 +2237,15 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "guard"
+    "subtype": "guard",
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0073",
@@ -1554,7 +2266,15 @@
     "morale": 85,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0074",
@@ -1575,7 +2295,15 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0075",
@@ -1596,7 +2324,15 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0076",
@@ -1617,7 +2353,15 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0077",
@@ -1638,7 +2382,15 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0078",
@@ -1659,7 +2411,15 @@
     "morale": 83,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0079",
@@ -1680,7 +2440,15 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0080",
@@ -1701,7 +2469,15 @@
     "morale": 85,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0081",
@@ -1722,7 +2498,15 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0082",
@@ -1743,7 +2527,15 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0083",
@@ -1764,7 +2556,15 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0084",
@@ -1785,7 +2585,15 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0085",
@@ -1806,7 +2614,15 @@
     "morale": 83,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0086",
@@ -1827,7 +2643,15 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0087",
@@ -1850,7 +2674,15 @@
     "fatigue": 0,
     "ammo": 90,
     "commander": "伊东政喜",
-    "commanderTitle": "师团长"
+    "commanderTitle": "师团长",
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0088",
@@ -1872,7 +2704,15 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "guard"
+    "subtype": "guard",
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0089",
@@ -1893,7 +2733,15 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0090",
@@ -1914,7 +2762,15 @@
     "morale": 83,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0091",
@@ -1935,7 +2791,15 @@
     "morale": 83,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0092",
@@ -1956,7 +2820,15 @@
     "morale": 83,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0093",
@@ -1977,7 +2849,15 @@
     "morale": 83,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0094",
@@ -1998,7 +2878,15 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0095",
@@ -2019,7 +2907,15 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0096",
@@ -2040,7 +2936,15 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0097",
@@ -2061,7 +2965,15 @@
     "morale": 83,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0098",
@@ -2082,7 +2994,15 @@
     "morale": 83,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0099",
@@ -2103,7 +3023,15 @@
     "morale": 83,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0100",
@@ -2124,7 +3052,15 @@
     "morale": 83,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0101",
@@ -2145,7 +3081,15 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0102",
@@ -2166,7 +3110,15 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0103",
@@ -2187,7 +3139,15 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0104",
@@ -2208,7 +3168,15 @@
     "morale": 80,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0105",
@@ -2229,7 +3197,15 @@
     "morale": 80,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0106",
@@ -2250,7 +3226,15 @@
     "morale": 80,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0107",
@@ -2271,7 +3255,15 @@
     "morale": 80,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0108",
@@ -2293,7 +3285,15 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "cavalry"
+    "subtype": "cavalry",
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 6,
+    "movementPoints": 6,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0109",
@@ -2315,7 +3315,15 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "engineer"
+    "subtype": "engineer",
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0110",
@@ -2337,7 +3345,17 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "guard"
+    "subtype": "guard",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0111",
@@ -2358,7 +3376,17 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 2,
+    "movementPoints": 2,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0112",
@@ -2379,7 +3407,17 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0113",
@@ -2400,7 +3438,17 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0114",
@@ -2422,7 +3470,17 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "guard"
+    "subtype": "guard",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0115",
@@ -2443,7 +3501,17 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0116",
@@ -2464,7 +3532,17 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0117",
@@ -2485,7 +3563,17 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0118",
@@ -2506,7 +3594,17 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0119",
@@ -2527,7 +3625,17 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0120",
@@ -2548,7 +3656,17 @@
     "morale": 84,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0121",
@@ -2569,7 +3687,17 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0122",
@@ -2590,7 +3718,17 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0123",
@@ -2611,7 +3749,17 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0124",
@@ -2632,7 +3780,17 @@
     "morale": 82,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0125",
@@ -2653,7 +3811,17 @@
     "morale": 86,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0126",
@@ -2674,7 +3842,17 @@
     "morale": 86,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0127",
@@ -2696,7 +3874,17 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "guard"
+    "subtype": "guard",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0128",
@@ -2718,7 +3906,17 @@
     "suppression": 0,
     "fatigue": 0,
     "ammo": 90,
-    "subtype": "guard"
+    "subtype": "guard",
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0129",
@@ -2739,7 +3937,17 @@
     "morale": 78,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0130",
@@ -2760,7 +3968,17 @@
     "morale": 78,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0131",
@@ -2781,7 +3999,17 @@
     "morale": 80,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0132",
@@ -2806,7 +4034,15 @@
     "arrivalTurn": 6,
     "reinforcement": true,
     "reinforcementTurn": 6,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0133",
@@ -2831,7 +4067,15 @@
     "arrivalTurn": 6,
     "reinforcement": true,
     "reinforcementTurn": 6,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0134",
@@ -2856,7 +4100,15 @@
     "arrivalTurn": 7,
     "reinforcement": true,
     "reinforcementTurn": 7,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0135",
@@ -2881,7 +4133,15 @@
     "arrivalTurn": 8,
     "reinforcement": true,
     "reinforcementTurn": 8,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0136",
@@ -2906,7 +4166,15 @@
     "arrivalTurn": 9,
     "reinforcement": true,
     "reinforcementTurn": 9,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0137",
@@ -2931,7 +4199,15 @@
     "arrivalTurn": 9,
     "reinforcement": true,
     "reinforcementTurn": 9,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0138",
@@ -2956,7 +4232,15 @@
     "arrivalTurn": 10,
     "reinforcement": true,
     "reinforcementTurn": 10,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0139",
@@ -2981,7 +4265,15 @@
     "arrivalTurn": 11,
     "reinforcement": true,
     "reinforcementTurn": 11,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0140",
@@ -3006,7 +4298,15 @@
     "arrivalTurn": 12,
     "reinforcement": true,
     "reinforcementTurn": 12,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 6,
+    "movementPoints": 6,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0141",
@@ -3031,7 +4331,15 @@
     "arrivalTurn": 14,
     "reinforcement": true,
     "reinforcementTurn": 14,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0142",
@@ -3052,7 +4360,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0143",
@@ -3062,8 +4380,8 @@
     "type": "infantry",
     "echelon": "battalion",
     "formation": "临安守备队",
-    "q": 24,
-    "r": 20,
+    "q": 25,
+    "r": 19,
     "strength": 360,
     "maxStrength": 360,
     "attack": 6,
@@ -3073,7 +4391,17 @@
     "morale": 78,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0144",
@@ -3084,7 +4412,7 @@
     "echelon": "battalion",
     "formation": "临安守备队",
     "q": 26,
-    "r": 20,
+    "r": 19,
     "strength": 340,
     "maxStrength": 340,
     "attack": 6,
@@ -3094,7 +4422,17 @@
     "morale": 77,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0145",
@@ -3104,8 +4442,8 @@
     "type": "machine_gun",
     "echelon": "company",
     "formation": "临安守备队",
-    "q": 25,
-    "r": 21,
+    "q": 26,
+    "r": 20,
     "strength": 120,
     "maxStrength": 120,
     "attack": 5,
@@ -3115,7 +4453,17 @@
     "morale": 78,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0146",
@@ -3125,7 +4473,7 @@
     "type": "hq",
     "echelon": "hq",
     "formation": "青山镇守备队",
-    "q": 31,
+    "q": 27,
     "r": 20,
     "strength": 80,
     "maxStrength": 80,
@@ -3136,7 +4484,17 @@
     "morale": 75,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0147",
@@ -3146,8 +4504,8 @@
     "type": "infantry",
     "echelon": "battalion",
     "formation": "青山镇守备队",
-    "q": 30,
-    "r": 20,
+    "q": 28,
+    "r": 19,
     "strength": 320,
     "maxStrength": 320,
     "attack": 6,
@@ -3157,7 +4515,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0148",
@@ -3167,8 +4535,8 @@
     "type": "infantry",
     "echelon": "battalion",
     "formation": "青山镇守备队",
-    "q": 32,
-    "r": 20,
+    "q": 27,
+    "r": 19,
     "strength": 300,
     "maxStrength": 300,
     "attack": 6,
@@ -3178,7 +4546,17 @@
     "morale": 75,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0149",
@@ -3188,8 +4566,8 @@
     "type": "machine_gun",
     "echelon": "company",
     "formation": "青山镇守备队",
-    "q": 31,
-    "r": 21,
+    "q": 24,
+    "r": 20,
     "strength": 110,
     "maxStrength": 110,
     "attack": 5,
@@ -3199,7 +4577,17 @@
     "morale": 76,
     "suppression": 0,
     "fatigue": 0,
-    "ammo": 90
+    "ammo": 90,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0150",
@@ -3224,7 +4612,17 @@
     "arrivalTurn": 4,
     "reinforcementTurn": 4,
     "reinforcement": true,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 95,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0151",
@@ -3249,7 +4647,17 @@
     "arrivalTurn": 5,
     "reinforcementTurn": 5,
     "reinforcement": true,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 95,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0152",
@@ -3274,7 +4682,17 @@
     "arrivalTurn": 5,
     "reinforcementTurn": 5,
     "reinforcement": true,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 95,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0153",
@@ -3299,7 +4717,17 @@
     "arrivalTurn": 5,
     "reinforcementTurn": 5,
     "reinforcement": true,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "chinese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false,
+    "hasBombarded": false,
+    "hasActed": false
   },
   {
     "id": "HZ37_0154",
@@ -3324,7 +4752,15 @@
     "arrivalTurn": 8,
     "reinforcementTurn": 8,
     "reinforcement": true,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0155",
@@ -3349,7 +4785,15 @@
     "arrivalTurn": 10,
     "reinforcementTurn": 10,
     "reinforcement": true,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 4,
+    "movementPoints": 4,
+    "ammunition": 90,
+    "maxActionPoints": 6,
+    "actionPoints": 6,
+    "hasMoved": false
   },
   {
     "id": "HZ37_0156",
@@ -3374,6 +4818,14 @@
     "arrivalTurn": 12,
     "reinforcementTurn": 12,
     "reinforcement": true,
-    "isReinforcement": true
+    "isReinforcement": true,
+    "side": "japanese",
+    "hasAttacked": false,
+    "maxMovementPoints": 3,
+    "movementPoints": 3,
+    "ammunition": 90,
+    "maxActionPoints": 5,
+    "actionPoints": 5,
+    "hasMoved": false
   }
 ]
